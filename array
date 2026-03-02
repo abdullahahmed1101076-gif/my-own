@@ -1,5 +1,5 @@
 var
-array[0..3] of integer;
+array[0..2] of integer;
 begin
 array[0]:=7;
 array[1]:=8;
